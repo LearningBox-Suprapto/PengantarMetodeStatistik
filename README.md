@@ -86,27 +86,25 @@
     - PCA
     - KMeans Clustering
 
-# Pertemuan 11
+# Pertemuan 11-12
 
 - <a href='http://htmlpreview.github.io/?https://github.com/LearningBox-Suprapto/PengantarMetodeStatistik/blob/master/12_diagram_kendali.html'>Diagram Kendali</a>
     - Individual
     - EWMA
     - CUSUM
 
-# Pertemuan 12-13
+# Pertemuan 13-14
 
 ## Learning Outcome
 - Desain Experimental 
-    - Factoriak Design
+    - Factorial Design
     - Response Surface Metodologi
     - Latin Hypercube
 
-# Pertemuan 14-15
+# Pertemuan 15
 
 ## Learning Outcome
-- Statistik untuk Pengendalian Proses  
-    - Control Chart
-    - Pareto Chart
+- Responsi
 
 # Pertemuan 16
 
