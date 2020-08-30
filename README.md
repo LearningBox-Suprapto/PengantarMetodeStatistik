@@ -18,10 +18,10 @@
 
 <img src = 'https://images-na.ssl-images-amazon.com/images/I/41w6BAMUQlL._SX387_BO1,204,203,200_.jpg'>
 
-<img src='http://htmlpreview.github.com/?https://cf.shopee.co.id/file/2011e8a03b7ceecb8b1ada981fac0cca' width=600>
+<img src='https://cf.shopee.co.id/file/2011e8a03b7ceecb8b1ada981fac0cca' width=600>
 
 # Pertemuan 2
-- <a href='https://github.com/LearningBox-Suprapto/PengantarMetodeStatistik/blob/master/2_sample_populasi.html'>Sampel vs. Populasi</a>
+- <a href='http://htmlpreview.github.io/?https://github.com/LearningBox-Suprapto/PengantarMetodeStatistik/blob/master/2_sample_populasi.html'>Sampel vs. Populasi</a>
 - Teknik Sampling:
     - RS
     - RBS
