@@ -30,7 +30,7 @@ https://github.com/LearningBox-Suprapto/PengantarMetodeStatistik
 # Pertemuan 3
 
 ## Learning Outcome
-- Mehasiswa memahami cara menghitung 
+- Teorema central limit 
     - rata-rata
     - median
     - modus
