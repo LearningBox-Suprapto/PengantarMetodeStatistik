@@ -22,7 +22,7 @@ https://github.com/LearningBox-Suprapto/PengantarMetodeStatistik
 
 # Pertemuan 2
 ## Learning Outcome
-- Sampel vs Populasi
+- <a href='https://github.com/LearningBox-Suprapto/PengantarMetodeStatistik/blob/master/2_sample_populasi.html'>Sampel vs Populasi</a>
 - Teknik Sampling:
     - RS
     - RBS
