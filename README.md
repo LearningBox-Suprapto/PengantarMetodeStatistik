@@ -29,7 +29,7 @@
 # Pertemuan 3
 
 ## Learning Outcome
-- Teorema Central Limit
+- <a href='http://htmlpreview.github.io/?https://github.com/LearningBox-Suprapto/PengantarMetodeStatistik/blob/master/3_central_limit.html'>Teorema Central Limit</a>
     - rata-rata
     - median
     - modus
@@ -38,9 +38,7 @@
 
 # Pertemuan 4
 
-
-## Learning Outcome
-- Karakter Data
+- <a href='http://htmlpreview.github.io/?https://github.com/LearningBox-Suprapto/PengantarMetodeStatistik/blob/master/4_tipologi_data.html'>Tipologi Data</a>
     - Data Kategori, 
     - Ordinal, 
     - Dikotomi, 
@@ -48,9 +46,7 @@
 
 # Pertemuan 5
 
-
-## Learning Outcome
-- Statistik Deskriptif 
+- <a href='http://htmlpreview.github.io/?https://github.com/LearningBox-Suprapto/PengantarMetodeStatistik/blob/master/5_statistik_deskriptif.html'>Statistik Deskriptif</a> 
     - Data Kategori, Ordinal, Dikotomi, Kontinu
     - Histogram
     - Boxplot
@@ -58,23 +54,16 @@
 
 # Pertemuan 6
 
-## Learning Outcome
-- Membandingkan data 
-    - Uji t
-    - Uji F
-    - One Way Anova/Anova Single Factor 
-    - Two Way Anova 
+- <a href='http://htmlpreview.github.io/?https://github.com/LearningBox-Suprapto/PengantarMetodeStatistik/blob/master/6_distribusi_normal.html'>Distribusi Statistik</a> 
+    - Karakteristik distribusi normal
 
 # Pertemuan 7
 
-## Learning Outcome
-- Regresi Linier 
-    - r2
-    - SE
-    - SSE 
-    - MSE
-    - RMSE
-    - Karakter kurva regresi: Kurtosis, Skewnwss, Jack-Berra
+- <a href='http://htmlpreview.github.io/?https://github.com/LearningBox-Suprapto/PengantarMetodeStatistik/blob/master/7_uji_hipotesis.html'>Uji Hipotesis</a>  
+    - Uji t
+    - Uji F
+    - One Way Anova/Anova Single Factor 
+    - Two Way Anova     
 
 # Pertemuan 8
 
@@ -82,33 +71,35 @@
 
 # Pertemuan 9
 
-## Learning Outcome
-- Distribusi Normal 
-    - Uji KS
-    - Uji AD
-    - Histogram 
-    - Boxplot 
+- <a href='http://htmlpreview.github.io/?https://github.com/LearningBox-Suprapto/PengantarMetodeStatistik/blob/master/9_regresi_linier.html'>Analisis Regresi</a>
+    - r2
+    - SE
+    - SSE 
+    - MSE
+    - RMSE
+    - Karakter kurva regresi: Kurtosis, Skewnwss, Jack-Berra
 
 # Pertemuan 10
 
-## Learning Outcome
+- <a href='http://htmlpreview.github.io/?https://github.com/LearningBox-Suprapto/PengantarMetodeStatistik/blob/master/11_klasterisasi_data.html'>Klasterisasi Data</a>
 - Klasterisasi Data 
     - PCA
     - KMeans Clustering
 
 # Pertemuan 11
 
-## Learning Outcome
-- Desain Experimental 
-    - FFD
-    - PFD
+- <a href='http://htmlpreview.github.io/?https://github.com/LearningBox-Suprapto/PengantarMetodeStatistik/blob/master/12_diagram_kendali.html'>Diagram Kendali</a>
+    - Individual
+    - EWMA
+    - CUSUM
 
 # Pertemuan 12-13
 
 ## Learning Outcome
 - Desain Experimental 
-    - RSM
-    - BBD
+    - Factoriak Design
+    - Response Surface Metodologi
+    - Latin Hypercube
 
 # Pertemuan 14-15
 
