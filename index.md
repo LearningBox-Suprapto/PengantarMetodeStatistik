@@ -1,37 +1,123 @@
-## Welcome to GitHub Pages
+# Pengantar Analisis Data Menggunakan Statistik
+**Compiled by:** suprapto van plaosan
 
-You can use the [editor on GitHub](https://github.com/LearningBox-Suprapto/PengantarMetodeStatistik/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+<td><a target="_blank" href="https://colab.research.google.com/github/LearningBox-Suprapto/pms/blob/master/00_PMS.ipynb"><img src="https://www.tensorflow.org/images/colab_logo_32px.png" />Run in Google Colab</a></td>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Pengantar Kuliah
+### Materi Kuliah
+    
+https://github.com/LearningBox-Suprapto/PengantarMetodeStatistik
+    
+### Sistem Evaluasi:
+    - Tugas 1 (20)
+    - Tugas 2 (20)
+    - ETS (30)
+    - EAS (30)
+    
+### Literatur
 
-### Markdown
+<img src = 'https://images-na.ssl-images-amazon.com/images/I/41w6BAMUQlL._SX387_BO1,204,203,200_.jpg'>
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+<img src='https://cf.shopee.co.id/file/529dd48cf8dad68a34cd671e87823196' width='600'>
 
-```markdown
-Syntax highlighted code block
+# Pertemuan 2
+## Learning Outcome
+- Sampel vs Populasi
+- Teknik Sampling:
+    - RS
+    - RBS
 
-# Header 1
-## Header 2
-### Header 3
+# Pertemuan 3
 
-- Bulleted
-- List
+## Learning Outcome
+- Mehasiswa memahami cara menghitung 
+    - rata-rata
+    - median
+    - modus
+    - deviasi standar
+    - Q1, Q2, Q3, IQR
 
-1. Numbered
-2. List
+# Pertemuan 4
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
+## Learning Outcome
+- Karakter Data
+    - Data Kategori, 
+    - Ordinal, 
+    - Dikotomi, 
+    - Kontinu
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+# Pertemuan 5
 
-### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/LearningBox-Suprapto/PengantarMetodeStatistik/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+## Learning Outcome
+- Statistik Deskriptif 
+    - Data Kategori, Ordinal, Dikotomi, Kontinu
+    - Histogram
+    - Boxplot
+    - Regresi
 
-### Support or Contact
+# Pertemuan 6
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+## Learning Outcome
+- Membandingkan data 
+    - Uji t
+    - Uji F
+    - One Way Anova/Anova Single Factor 
+    - Two Way Anova 
+
+# Pertemuan 7
+
+## Learning Outcome
+- Regresi Linier 
+    - r2
+    - SE
+    - SSE 
+    - MSE
+    - RMSE
+    - Karakter kurva regresi: Kurtosis, Skewnwss, Jack-Berra
+
+# Pertemuan 8
+
+## Evaluasi Tengah Semester
+
+# Pertemuan 9
+
+## Learning Outcome
+- Distribusi Normal 
+    - Uji KS
+    - Uji AD
+    - Histogram 
+    - Boxplot 
+
+# Pertemuan 10
+
+## Learning Outcome
+- Klasterisasi Data 
+    - PCA
+    - KMeans Clustering
+
+# Pertemuan 11
+
+## Learning Outcome
+- Desain Experimental 
+    - FFD
+    - PFD
+
+# Pertemuan 12-13
+
+## Learning Outcome
+- Desain Experimental 
+    - RSM
+    - BBD
+
+# Pertemuan 14-15
+
+## Learning Outcome
+- Statistik untuk Pengendalian Proses  
+    - Control Chart
+    - Pareto Chart
+
+# Pertemuan 16
+
+## Evaluasi Akhir Semester
