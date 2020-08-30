@@ -21,7 +21,7 @@
 <img src='https://cf.shopee.co.id/file/2011e8a03b7ceecb8b1ada981fac0cca' width=600>
 
 # Pertemuan 2
-<h3 href='https://github.com/LearningBox-Suprapto/PengantarMetodeStatistik/blob/master/2_sample_populasi.html>Sampel vs Populasi</h3>
+- Sampel vs Populasi<href='https://github.com/LearningBox-Suprapto/PengantarMetodeStatistik/blob/master/2_sample_populasi.html>
 - Teknik Sampling:
     - RS
     - RBS
