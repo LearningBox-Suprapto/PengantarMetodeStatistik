@@ -18,7 +18,7 @@ https://github.com/LearningBox-Suprapto/PengantarMetodeStatistik
 
 <img src = 'https://images-na.ssl-images-amazon.com/images/I/41w6BAMUQlL._SX387_BO1,204,203,200_.jpg'>
 
-<img src='https://cf.shopee.co.id/file/2011e8a03b7ceecb8b1ada981fac0cca" width='600'>
+<img src='https://cf.shopee.co.id/file/2011e8a03b7ceecb8b1ada981fac0cca" width=600>
 
 # Pertemuan 2
 ## Learning Outcome
