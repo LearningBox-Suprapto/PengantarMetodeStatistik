@@ -18,7 +18,7 @@
 
 <img src = 'https://images-na.ssl-images-amazon.com/images/I/41w6BAMUQlL._SX387_BO1,204,203,200_.jpg'>
 
-<img src='https://ecs7.tokopedia.net/img/cache/700/product-1/2019/9/17/18185390/18185390_8412dad6-f634-4bf5-9d1f-e0cbac2975ec_1000_1000'>
+<img src='https://cf.shopee.co.id/file/529dd48cf8dad68a34cd671e87823196'>
 
 # Pertemuan 2
 ## Learning Outcome
