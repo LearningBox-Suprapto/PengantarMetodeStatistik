@@ -30,7 +30,7 @@
 # Pertemuan 3
 
 ## Learning Outcome
-- Mehasiswa memahami cara menghitung 
+- Teorema Central Limit
     - rata-rata
     - median
     - modus
