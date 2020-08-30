@@ -1,4 +1,5 @@
 # Pengantar Analisis Data Menggunakan Statistik
+
 **Compiled by:** suprapto van plaosan
 
 <table align="left">
@@ -8,9 +9,8 @@
 </table>
 
 ## Pengantar Kuliah
+
 ### Materi Kuliah
-    
-https://github.com/LearningBox-Suprapto/PengantarMetodeStatistik
     
 ### Sistem Evaluasi:
     - Tugas 1 (20)
@@ -22,7 +22,7 @@ https://github.com/LearningBox-Suprapto/PengantarMetodeStatistik
 
 <img src = 'https://images-na.ssl-images-amazon.com/images/I/41w6BAMUQlL._SX387_BO1,204,203,200_.jpg'>
 
-<img src='https://cf.shopee.co.id/file/529dd48cf8dad68a34cd671e87823196' width='600'>
+<img src='https://cf.shopee.co.id/file/529dd48cf8dad68a34cd671e87823196'>
 
 # Pertemuan 2
 ## Learning Outcome
