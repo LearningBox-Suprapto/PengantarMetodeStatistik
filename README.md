@@ -1,4 +1,4 @@
-# Pengantar Analisis Data Menggunakan Statistik
+# Pengantar Metode Statistik
 
 **Compiled by:** suprapto van plaosan
 
