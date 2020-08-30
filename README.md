@@ -2,14 +2,7 @@
 
 **Compiled by:** suprapto van plaosan
 
-<n>
-<table align="left">
-  <td>
-    <a target="_blank" href="https://colab.research.google.com/github/LearningBox-Suprapto/pms/blob/master/00_PMS.ipynb"><img src="https://www.tensorflow.org/images/colab_logo_32px.png" />Run in Google Colab</a>
-  </td>
-</table>
-</n>
-
+<align="left"><td><a target="_blank" href="https://colab.research.google.com/github/LearningBox-Suprapto/pms/blob/master/00_PMS.ipynb"><img src="https://www.tensorflow.org/images/colab_logo_32px.png" />Run in Google Colab</a></td>
 
 ## Pengantar Kuliah
 
